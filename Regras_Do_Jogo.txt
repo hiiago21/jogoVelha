@@ -1,0 +1,10 @@
+Regras do Jogo:
+O jogo é composto de dois jogadores, um sera o "X" e o outro "O", estes terão
+um tabuleiro que tem 3 linhas e 3 colunas conforme modelo abaixo:
+7|8|9
+4|5|6
+1|2|3
+
+Os jogadores deverão buscar completar linhas, colunas ou diagonais com o seu 
+"X" ou "O", o primeiro que completar uma das opções sera vencedor, não havendo
+nenhum das opções completadas é considerado empate após nove rodadas.

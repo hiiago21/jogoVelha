@@ -1,0 +1,18 @@
+Jogo da vela
+1º - Deve ser informado pelo usuário o que deseja fazer no jogo, o usuario
+deverá escolher um numero de 1 a 3, sendo que:
+1- Para iniciar o jogo;
+2- Para entrar em informações sobre o jogo, desenvolvedores
+e informações de como jogar;
+3- Para sair.
+
+2º- O usuario deve informar o nome dos dois jogadores.
+
+3º- O jogo começou, na parte superior da tela tera um pequeno manual
+de como o usuario deve jogar com o teclado numérico.
+
+4º- Ao final de 9 rodadas ou havendo algum vencedor será aberto novamente 
+um menu para o usuário escolher o que deseja fazer, com 3 opções novamente:
+1- Para reiniciar o jogo;
+2- Retorna ao menu principal;
+3- Sair.

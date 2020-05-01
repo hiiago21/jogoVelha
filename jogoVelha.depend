@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1587617030 source:c:\users\hiago\desktop\faculdade\tecnicas de programação\jogovelha\estruturas.c
+	"lib/estruturas.h"
+	"lib/utilidades.h"
+
+1587616496 c:\users\hiago\desktop\faculdade\tecnicas de programação\jogovelha\lib\estruturas.h
+
+1588286729 c:\users\hiago\desktop\faculdade\tecnicas de programação\jogovelha\lib\utilidades.h
+
+1587616685 source:c:\users\hiago\desktop\faculdade\tecnicas de programação\jogovelha\mainjogovelha.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lib/estruturas.h"
+
+1587617017 source:c:\users\hiago\desktop\faculdade\tecnicas de programação\jogovelha\utilidades.c
+	"lib/utilidades.h"
+
